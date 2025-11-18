@@ -1,4 +1,4 @@
-module github.com/liwenqiu/go-tgit
+module github.com/aaronmegs/go-tgit
 
 go 1.25
 
