@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/aaronmegs/go-tgit"
 	"github.com/hashicorp/go-retryablehttp"
-	"github.com/liwenqiu/go-tgit"
 )
 
 func TestProjectsService_ListProjects(t *testing.T) {
